@@ -1,0 +1,20 @@
+// Helper để phía đầu
+@import "./Helpers/variable";
+@import "./Helpers/mixin";
+
+// Base
+@import "./Base/reset";
+@import "./Base/customize";
+
+// Components
+@import "./Components/button";
+@import "./Components/card";
+
+// Layout
+@import "./Layouts/Login";
+@import "./Layouts/Register";
+@import "./Layouts/Home";
+@import "./Layouts/AboutUs";
+@import "./Layouts/Major";
+@import "./Layouts/New";
+@import "./Layouts/Contact";
